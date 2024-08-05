@@ -1,0 +1,44 @@
+body{
+	background-color: black;
+	font-family: "Segoe UI", "Helvetica Neue", "Helvetica", "Lucida Grande", Arial, "Ubuntu", "Cantarell", "Fira Sans", sans-serif;
+}
+
+.main{
+	background-color:orange;
+	padding:20px;
+	padding-right:20px;
+	width: 85%;
+	margin: 0 auto;
+	border-radius: 10px;
+	font-weight: 500;
+}
+
+.inactive{
+	display: none;
+}
+.active{
+	display: block;
+}
+#submit{
+	margin: 0 auto;
+	   display: block;
+}
+h3{
+	color: black;
+    font-weight: 500;
+    font-size: 22px;
+    padding-left: 30px;
+}
+h1{
+	margin-left: 60px;
+	color: white;
+}
+.form_craft{
+	margin-left: 60px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	color: white;
+}
+.submitbtn{
+	border-radius: 15px;
+}
